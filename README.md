@@ -23,7 +23,7 @@ Import from DDL or introspect a live database, diff a baseline against a target,
 | [Car workshop](https://github.com/osama784/car-workshop) | Workshop management system | Python |
 | [To Do API](https://github.com/osama784/Backend_TO_DO) | To-do backend | Django REST Framework |
 
-More projects on my portfolio → [portfolio-osama784s-projects.vercel.app](https://portfolio-osama784s-projects.vercel.app/)
+More projects on my portfolio → [osamadoage.vercel.app](https://osamadoage.vercel.app/)
 
 ## Toolbox
 
@@ -34,4 +34,4 @@ More projects on my portfolio → [portfolio-osama784s-projects.vercel.app](http
 
 ## Elsewhere
 
-[Portfolio](https://portfolio-osama784s-projects.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/osama-doage-794601303) · [Codeforces](https://codeforces.com/profile/osamadoage0)
+[Portfolio](https://osamadoage.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/osama-doage-794601303) · [Codeforces](https://codeforces.com/profile/osamadoage0)
