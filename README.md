@@ -20,7 +20,7 @@ Import from DDL or introspect a live database, diff a baseline against a target,
 | --- | --- | --- |
 | [Blog API](https://github.com/osama784/Blog) | Blog backend with authentication and authorization | Node.js · TypeScript · Express · MongoDB |
 | [Nest-Mart](https://github.com/osama784/Nest-Mart) | E-commerce platform connecting vendors with their products | Django · DRF · Tailwind CSS · Alpine.js |
-| [Car workshop](https://github.com/osama784/car-workshop) | Car repair booking platform with an embedded AI chat (client project) | Django · DRF |
+| [Car workshop](https://github.com/osama784/car-workshop) | Car repair booking platform with AI repair estimates (client project) | Django · DRF |
 | [To Do API](https://github.com/osama784/Backend_TO_DO) | To-do backend | Django REST Framework |
 
 More projects on my portfolio → [osamadoage.vercel.app](https://osamadoage.vercel.app/)
